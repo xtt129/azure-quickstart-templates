@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Shadowsocks server on Ubuntu VM",
+  "description": "This template uses the Azure Linux CustomScript extension to deploy a shadowsocks server.",
+  "summary": "Deploy an Ubuntu VM with Apache webserver",
+  "githubUsername": "xtt129",
+  "dateUpdated": "2016-11-18"
+}
